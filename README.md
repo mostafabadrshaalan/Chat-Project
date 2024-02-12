@@ -3,9 +3,13 @@ Welcome to the SignalR Chat Application! This project is a real-time chat applic
 
 Features
 Real-Time Messaging: Instant communication between users, with no refresh required.
+
 Group Chats: Ability to create and join distinct chat rooms.
+
 Direct Messages: Send messages privately to a specific user.
+
 User Presence Indicator: See who's online, offline, or currently typing.
+
 Chat History: Access previous conversations within any chat room.
 Responsive Design: Works on desktop and mobile browsers.
 Scalable Architecture: Ready to scale with your needs.
